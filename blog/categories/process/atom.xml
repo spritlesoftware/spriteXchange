@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SpriteXchange]]></title>
-  <link href="http://spritlesoftware.github.io//github/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Process | SpriteXchange]]></title>
+  <link href="http://spritlesoftware.github.io//github/blog/categories/process/atom.xml" rel="self"/>
   <link href="http://spritlesoftware.github.io//github/"/>
   <updated>2014-11-07T16:21:40+05:30</updated>
   <id>http://spritlesoftware.github.io//github/</id>
