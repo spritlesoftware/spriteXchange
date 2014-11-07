@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Process | SpriteXchange]]></title>
-  <link href="http://spritlesoftware.github.io//github/blog/categories/process/atom.xml" rel="self"/>
+  <link href="http://spritlesoftware.github.io//github/talks/categories/process/atom.xml" rel="self"/>
   <link href="http://spritlesoftware.github.io//github/"/>
-  <updated>2014-11-07T16:21:40+05:30</updated>
+  <updated>2014-11-07T16:25:06+05:30</updated>
   <id>http://spritlesoftware.github.io//github/</id>
   <author>
     <name><![CDATA[Spritle Software]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[TDD and Continuous Integration]]></title>
-    <link href="http://spritlesoftware.github.io//github/blog/2014/11/07/tdd-and-continuous-integration/"/>
+    <link href="http://spritlesoftware.github.io//github/talks/2014/11/07/tdd-and-continuous-integration/"/>
     <updated>2014-11-07T16:07:54+05:30</updated>
-    <id>http://spritlesoftware.github.io//github/blog/2014/11/07/tdd-and-continuous-integration</id>
+    <id>http://spritlesoftware.github.io//github/talks/2014/11/07/tdd-and-continuous-integration</id>
     <content type="html"><![CDATA[<p><a href="https://twitter.com/vinothinibj">Vinothini</a> talked about the value of TDD and illustrated this by doing a full cycle of Fail - Pass cycle.</p>
 
 <p>She talked about Continuous Integration and how it can add value to a project and be useful for a team.</p>
