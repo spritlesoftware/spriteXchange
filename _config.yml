@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://spritlesoftware.github.io//github
+url: http://spritlesoftware.github.io/spriteXchange
 title: SpriteXchange
 subtitle: Our weekly knowledge sharing sessions...
 author: Spritle Software
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /spriteXchange/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -29,7 +29,7 @@ email:
 root: /spriteXchange
 permalink: /talks/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/spriteXchange
 plugins: plugins
 code_dir: downloads/code
 category_dir: talks/categories
