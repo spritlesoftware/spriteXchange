@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://spritlesoftware.github.io/sitemap.xml 

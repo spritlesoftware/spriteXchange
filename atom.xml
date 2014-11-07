@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[SpriteXchange]]></title>
+  <link href="http://spritlesoftware.github.io/atom.xml" rel="self"/>
+  <link href="http://spritlesoftware.github.io/"/>
+  <updated>2014-11-07T15:46:34+05:30</updated>
+  <id>http://spritlesoftware.github.io/</id>
+  <author>
+    <name><![CDATA[Spritle Software]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
