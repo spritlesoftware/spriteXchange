@@ -3,7 +3,7 @@ layout: post
 title: "TDD and Continuous Integration"
 date: 2014-11-07 16:07:54 +0530
 comments: true
-categories: testing, process
+categories: testing process
 ---
 
 [Vinothini](https://twitter.com/vinothinibj) talked about the value of TDD and illustrated this by doing a full cycle of Fail - Pass cycle.
