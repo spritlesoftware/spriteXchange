@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://spritlesoftware.github.io//github/sitemap.xml 
+Sitemap: http://spritlesoftware.github.io/spriteXchange/sitemap.xml 
