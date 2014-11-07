@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Testing, | SpriteXchange]]></title>
+  <title><![CDATA[Category: Testing | SpriteXchange]]></title>
   <link href="http://spritlesoftware.github.io/spriteXchange/talks/categories/testing/atom.xml" rel="self"/>
   <link href="http://spritlesoftware.github.io/spriteXchange/"/>
-  <updated>2014-11-07T17:43:42+05:30</updated>
+  <updated>2014-11-07T17:49:18+05:30</updated>
   <id>http://spritlesoftware.github.io/spriteXchange/</id>
   <author>
     <name><![CDATA[Spritle Software]]></name>
