@@ -3,7 +3,7 @@ layout: post
 title: "API Builder using Grape"
 date: 2014-11-26 17:58:30 +0530
 comments: true
-categories: 
+categories: Rails, API builder
 ---
 
 [Visnupriya](https://twitter.com/visnupriya90) presented one of the wonderful API Building framework named as Grape.
