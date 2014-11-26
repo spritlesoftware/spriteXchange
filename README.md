@@ -7,7 +7,7 @@ And this is,
 
 > #### _A mini-blog journaling the talks given at our weekly SpriteXchange sessions._
 
-You can view this blog at [http://spritlesoftware.github.io/spriteXchange/](spritexchange.spritle.com).
+You can view this blog at [spritexchange.spritle.com](spritexchange.spritle.com).
 
 We will be blogging all about these talks here in this site complete with slides, code and photos. You can get the latest updates about our SpriteXchange sessions [here](https://twitter.com/search?f=realtime&q=%23spritexchange&src=savs)
 
