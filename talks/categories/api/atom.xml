@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[SpriteXchange]]></title>
-  <link href="http://spritlesoftware.github.io/spriteXchange/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Api | SpriteXchange]]></title>
+  <link href="http://spritlesoftware.github.io/spriteXchange/talks/categories/api/atom.xml" rel="self"/>
   <link href="http://spritlesoftware.github.io/spriteXchange/"/>
   <updated>2014-11-30T22:37:07+05:30</updated>
   <id>http://spritlesoftware.github.io/spriteXchange/</id>
@@ -29,21 +29,6 @@
 <p>Finally she finished off with a demo of <a href="https://github.com/tim-vandecasteele/grape-swagger">Grape-Swagger</a>, a gem that can help you to generate documentation for your API.</p>
 
 <p>The sample code used in this talk is available <a href="https://github.com/visnupriya/grape-sample">here</a> and <a href="https://github.com/visnupriya/grape-swagger-rails">here</a>.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[TDD and Continuous Integration]]></title>
-    <link href="http://spritlesoftware.github.io/spriteXchange/talks/2014/11/07/tdd-and-continuous-integration/"/>
-    <updated>2014-11-07T16:07:54+05:30</updated>
-    <id>http://spritlesoftware.github.io/spriteXchange/talks/2014/11/07/tdd-and-continuous-integration</id>
-    <content type="html"><![CDATA[<p><a href="https://twitter.com/vinothinibj">Vinothini</a> talked about the value of TDD and illustrated this by doing a full cycle of Fail - Pass cycle.</p>
-
-<p>She talked about Continuous Integration and how it can add value to a project and be useful for a team.</p>
-
-<p>To demonstrate CI, Vinothini setup Jenkins on a Digital Ocean server and configured it with a sample Rails app on GitHub. She then showed how the tests are run once commits are pushed into GitHub and what we can do when builds fail.</p>
-
-<p>She also talked about Selenium and Sauce Labs with a small demo.</p>
 ]]></content>
   </entry>
   
