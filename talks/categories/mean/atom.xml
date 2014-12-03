@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Mean | SpriteXchange]]></title>
+  <link href="http://spritlesoftware.github.io/spriteXchange/talks/categories/mean/atom.xml" rel="self"/>
+  <link href="http://spritlesoftware.github.io/spriteXchange/"/>
+  <updated>2014-12-03T19:03:36+05:30</updated>
+  <id>http://spritlesoftware.github.io/spriteXchange/</id>
+  <author>
+    <name><![CDATA[Spritle Software]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Introduction to the MEAN Stack]]></title>
+    <link href="http://spritlesoftware.github.io/spriteXchange/talks/2014/11/29/introduction-to-the-mean-stack/"/>
+    <updated>2014-11-29T21:48:10+05:30</updated>
+    <id>http://spritlesoftware.github.io/spriteXchange/talks/2014/11/29/introduction-to-the-mean-stack</id>
+    <content type="html"><![CDATA[<p>During today&rsquo;s SpriteXchange session, <a href="https://twitter.com/prabh_u06">Prabu</a> talked about the MEAN full stack framework which consists of MongoDB as database, Node.js and Express as the server backend and AngularJS as the front end framework.</p>
+
+<p>He talked about basics of MongoDB, Express, Angular &amp; Node.js with a demo application using each of these technologies.</p>
+
+<p>He then talked about the differences between <a href="http://meanjs.org/">MEAN.JS</a> &amp; <a href="http://mean.io/">MEAN.IO</a> and how <a href="https://twitter.com/amoshaviv">Amos Haviv</a> initiated the MEAN.JS project. Prabu also used the Yeoman generator that comes with MEAN.JS to run a demo MEAN.JS app.</p>
+
+<p>The code used in this talk is available at <a href="https://github.com/dprabu17/MEAN-Intro">https://github.com/dprabu17/MEAN-Intro</a></p>
+
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/42226050 " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe> </p>
+]]></content>
+  </entry>
+  
+</feed>
