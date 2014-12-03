@@ -10,7 +10,7 @@ During today's SpriteXchange session, [Prabu](https://twitter.com/prabh_u06) tal
 
 He talked about basics of MongoDB, Express, Angular & Node.js with a demo application using each of these technologies. 
 
-He then talked about the differences between MEAN.JS & MEAN.IO and how Amos Haviv initiated the MEAN.JS project. Prabu also used the Yeoman generator that comes with MEAN.JS to run a demo MEAN.JS app.
+He then talked about the differences between (http://meanjs.org/)[MEAN.JS] & (http://mean.io/)[MEAN.IO] and how Amos Haviv initiated the MEAN.JS project. Prabu also used the Yeoman generator that comes with MEAN.JS to run a demo MEAN.JS app.
 
 The code used in this talk is available at [https://github.com/dprabu17/MEAN-Intro](https://github.com/dprabu17/MEAN-Intro)
 
