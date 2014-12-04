@@ -17,3 +17,6 @@ She then showed how to test these APIs by writing Rspec with the [Airborne](http
 Finally she finished off with a demo of [Grape-Swagger](https://github.com/tim-vandecasteele/grape-swagger), a gem that can help you to generate documentation for your API.
 
 The sample code used in this talk is available [here](https://github.com/visnupriya/grape-sample) and [here](https://github.com/visnupriya/grape-swagger-rails).
+
+{% slideshare 42314012 %}
+
